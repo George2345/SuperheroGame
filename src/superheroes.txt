@@ -1,0 +1,6 @@
+Capitan America;23;5;15;6;
+Hulk;30;7;12;5;
+IronMan;25;6;16;6;
+Ojo de halcon;20;7;16;9;
+Thor;27;8;17;5;
+Viuda Negra;20;6;20;8;
